@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f7f5f0"/>
+
+  <!-- Badge circle -->
+  <circle cx="400" cy="270" r="200" fill="#1d4e5f"/>
+
+  <!-- Sun -->
+  <circle cx="470" cy="185" r="45" fill="#f4b942"/>
+
+  <!-- Back mountain -->
+  <path d="M200 420 L330 230 L430 370 L520 250 L620 420 Z" fill="#3a7d8c"/>
+
+  <!-- Front mountain with snow cap -->
+  <path d="M150 420 L300 180 L450 420 Z" fill="#2a5d6e"/>
+  <path d="M300 180 L335 235 L318 232 L300 258 L282 232 L265 235 Z" fill="#ffffff"/>
+
+  <!-- Pine trees -->
+  <path d="M505 420 L520 380 L535 420 Z" fill="#173f4d"/>
+  <path d="M540 420 L555 375 L570 420 Z" fill="#1d4e5f"/>
+
+  <!-- River -->
+  <path d="M380 420 Q400 440 390 460 Q380 480 400 500" stroke="#7fc4d6" stroke-width="10" fill="none" stroke-linecap="round"/>
+
+  <!-- Wordmark -->
+  <text x="400" y="530" text-anchor="middle" font-family="Georgia, serif" font-size="52" font-weight="bold" fill="#1d4e5f" letter-spacing="6">PEAK VISTA</text>
+  <text x="400" y="566" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#3a7d8c" letter-spacing="8">ADVENTURE TOURS</text>
+</svg>
